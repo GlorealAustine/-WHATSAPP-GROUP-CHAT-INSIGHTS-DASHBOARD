@@ -51,10 +51,9 @@ The Power BI dashboard includes:
 
 ## 📸 Dashboard Preview
 ![Dashboard Preview](dashboard_screenshot.png)
-![dashboard_preview png](https://github.com/user-attachments/assets/a89825e9-6dfe-43aa-8f6f-7683791b1937)
+![dashboard_preview png](https://github.com/user-attachments/assets/bcf00b55-80ce-4c05-b81f-ebaea36897a0)
 
-
-
+---
 
 ## 💡 Future Improvements
 - Automate dataset cleaning with Python.  
