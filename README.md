@@ -1,7 +1,3 @@
-# WHATSAPP GROUP CHAT INSIGHTS DASHBOARD
-
-#This project analyzes **WhatsApp group chat activity** using **Power BI**.   It provides insights into user engagement, most active periods, and contribution levels within the **OSAS &amp; OSEJI WhatsApp Group**.  
-
 # 📊 WhatsApp Group Chat Insights Dashboard  
 
 This project analyzes **WhatsApp group chat activity** using **Power BI**.  
@@ -31,7 +27,7 @@ It provides insights into user engagement, most active periods, and contribution
 ## 🔑 Key Insights
 - **Most Active User:** Mr. Tosin OO  
 - **Most Active Day:** 25/02/2023  
-- **Most Active Hour:** 9 AM  
+- **Most Active Hour:** 9:00 AM  
 - **% Contribution of Top 3 Users:** 68.37%  
 
 ---
@@ -56,7 +52,8 @@ The Power BI dashboard includes:
 ## 📸 Dashboard Preview
 ![Dashboard Preview](dashboard_screenshot.png)
 
----
+---![Uploading OSAS & OSEJI LAGOS WHATSAPP GROUP CHAT FORUM ANALYSIS (2).jpeg…]()
+
 
 ## 💡 Future Improvements
 - Automate dataset cleaning with Python.  
