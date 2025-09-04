@@ -51,8 +51,9 @@ The Power BI dashboard includes:
 
 ## 📸 Dashboard Preview
 ![Dashboard Preview](dashboard_screenshot.png)
+![dashboard_preview png](https://github.com/user-attachments/assets/a89825e9-6dfe-43aa-8f6f-7683791b1937)
 
----![Uploading OSAS & OSEJI LAGOS WHATSAPP GROUP CHAT FORUM ANALYSIS (2).jpeg…]()
+
 
 
 ## 💡 Future Improvements
