@@ -65,3 +65,15 @@ The Power BI dashboard includes:
 
 ## 🙏 Acknowledgment
 This project was created as part of my **learning process in Power BI**, where I practiced how to clean data, perform analysis, and build interactive visuals.  
+
+## 👩‍💻 Author
+**Augustine Glory Chinyere**  
+_Entry-Level Data Analyst | Power BI Enthusiast_  
+
+I am a budding data analyst passionate about turning raw data into meaningful insights through visualization and storytelling.  
+As I build my skills in Power BI and data analytics, I enjoy creating dashboards that support decision-making and help me grow into a well-rounded data professional.  
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glorealaustine@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GlorealAustine)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glory-chinyere-augustine)  
+
