@@ -36,13 +36,14 @@ It provides insights into user engagement, most active periods, and contribution
 ---
 
 ## 📊 Dashboard Features
-The Power BI dashboard includes:  
-- **Total Messages by Users** → Ranking of group members by message count.  
-- **Total Messages by Month & Year** → Trends over time.  
-- **Most Active Day & Hour** → Identifies peak engagement periods.  
-- **User Activity Levels** → Categorized by message range (Active, Inactive, No Activity).  
-- **Treemap by Time** → Visualizes distribution of activity across hours of the day.  
+This Power BI dashboard provides a clear picture of how members engaged in the Osas & Oseji WhatsApp Group** during the analysis period:
 
+- **Total Messages by Users** → The dashboard highlights that a few members dominated the conversation. For instance, the top three users alone contributed over 68.37%% of all messages, while others had little to no activity.  
+- **Total Messages by Month & Year** → The trend charts reveal seasonal spikes, such as a sharp peak in March with over 400 messages, compared to quieter months like May and September. This shows how group activity fluctuated over time.  
+- **Most Active Day & Hour** → The group’s busiest day was **25th February 2023**, which coincided with Nigeria’s General Election — a key event that drove heightened conversations and engagement. The most active time was consistently around **9:00 PM**, reflecting when     members were most likely to engage.
+- **User Activity Levels** → Members are classified into **Active, Inactive, and No Activity** groups. Only a few users were consistently active (200+ messages), while many remained mostly inactive or contributed minimally.  
+- **Treemap by Time** → The treemap provides a colorful breakdown of activity across hours of the day. It shows concentrated bursts of messages at specific times (notably evenings), giving a quick view of when conversations were most lively.  
+  
 ---
 
 ## 📂 Repository Contents
