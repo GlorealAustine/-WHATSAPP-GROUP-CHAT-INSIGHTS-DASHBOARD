@@ -1,4 +1,4 @@
-# 📊 WhatsApp Group Chat Insights Dashboard  
+![dashboard_screenshot png](https://github.com/user-attachments/assets/19341846-af5a-4882-b43f-c32c0a1fa666)# 📊 WhatsApp Group Chat Insights Dashboard  
 
 This project analyzes **WhatsApp group chat activity** using **Power BI**.  
 It provides insights into user engagement, most active periods, and contribution levels within the **OSAS & OSEJI WhatsApp Group**.  
@@ -44,15 +44,15 @@ The Power BI dashboard includes:
 ---
 
 ## 📂 Repository Contents
-- `WhatsApp_Chat_Insights.pbix` → Power BI dashboard file  
-- `DSA_DATA_SQUAD_1_CHAT_ANALYSIS.xlsx` → Cleaned WhatsApp chat dataset  
+- `Osas & Oseji Whatsapp Group Chat_Insights.pbix` → Power BI dashboard file  
+- `Osas & Oseji Whatsapp Group Chat_File .xlsx` → Cleaned WhatsApp chat dataset  
 - `dashboard_screenshot.png` → Dashboard preview  
 
 ---
 
 ## 📸 Dashboard Preview
 ![Dashboard Preview](dashboard_screenshot.png)
-![dashboard_preview png](https://github.com/user-attachments/assets/bcf00b55-80ce-4c05-b81f-ebaea36897a0)
+![dashboard_screenshot png](https://github.com/user-attachments/assets/5b926e53-1b48-44f6-b4c3-f52b4dde3cbd)
 
 ---
 
