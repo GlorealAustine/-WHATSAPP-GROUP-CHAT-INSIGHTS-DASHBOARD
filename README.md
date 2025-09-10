@@ -11,8 +11,10 @@ It provides insights into user engagement, most active periods, and contribution
 - [📊 Dashboard Features](#-dashboard-features)  
 - [📂 Repository Contents](#-repository-contents)  
 - [📸 Dashboard Preview](#-dashboard-preview)  
+- [🚀 How to Use](#-how-to-use)  
 - [💡 Future Improvements](#-future-improvements)  
 - [🙏 Acknowledgment](#-acknowledgment)  
+- [👩‍💻 Author](#-author)  
 
 ---
 
