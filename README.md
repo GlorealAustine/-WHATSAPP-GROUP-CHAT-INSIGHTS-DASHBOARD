@@ -18,7 +18,8 @@ It provides insights into user engagement, most active periods, and contribution
 
 ## 📅 Dataset Overview
 - **Group:** OSAS & OSEJI  
-- **Period Analyzed:** 22nd – 23rd July 2025  
+- **Period Covered by Dataset:** 2022 – 2025  
+- **Analysis Carried Out:** 22nd – 23rd July 2025  
 - **Total Messages:** 1,768  
 - **Total Users:** 19  
 
@@ -26,9 +27,9 @@ It provides insights into user engagement, most active periods, and contribution
 
 ## 🔑 Key Insights
 - **Most Active User:** Mr. Tosin OO  
-- **Most Active Day:** 25/02/2023  
+- **Most Active Day (within 2022–2025 dataset):** 25/02/2023  
 - **Most Active Hour:** 9:00 AM  
-- **% Contribution of Top 3 Users:** 68.37%  
+- **% Contribution of Top 3 Users:** 68.37% 
 
 ---
 
