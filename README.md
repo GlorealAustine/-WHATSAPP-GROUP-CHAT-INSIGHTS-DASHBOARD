@@ -44,8 +44,8 @@ The Power BI dashboard includes:
 ---
 
 ## 📂 Repository Contents
-- `Osas & Oseji Whatsapp Group Chat_Insights.pbix` → Power BI dashboard file  
 - `Osas & Oseji Whatsapp Group Chat_File .xlsx` → Cleaned WhatsApp chat dataset  
+- `Osas & Oseji Whatsapp Group Chat_Insights.pbix` → Power BI dashboard file  
 - `dashboard_screenshot.png` → Dashboard preview  
 
 ---
